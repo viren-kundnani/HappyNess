@@ -2,11 +2,11 @@
 
 ## Overview
 
-HappyNess is a project that leverages the World Happiness Index dataset to predict whether a country is happy or not using a K Nearest Neighbour (KNN) classification model. The World Happiness Index provides a comprehensive set of factors contributing to a nation's happiness, and this project aims to classify countries based on these factors.
+HappyNess is a project that leverages the World Happiness Report dataset to predict whether a country is happy or not using a K Nearest Neighbour (KNN) classification model. The World Happiness Report provides a comprehensive set of factors contributing to a nation's happiness, and this project aims to classify countries based on these factors.
 
 ## Data Source
 
-The project utilizes the World Happiness Index dataset, which includes features such as GDP per capita, social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption. The dataset is preprocessed and cleaned to ensure accurate and meaningful predictions.
+The project utilizes the World Happiness report dataset, which includes features such as GDP per capita, social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption. The dataset is preprocessed and cleaned to ensure accurate and meaningful predictions.
 
 ## Model
 
